@@ -1,0 +1,5 @@
+{
+  "name": "CollabBoard",
+  "description": "A real-time collaborative whiteboard with live chat and session persistence.",
+  "requestFramePermissions": []
+}
